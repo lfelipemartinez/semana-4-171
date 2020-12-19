@@ -11,10 +11,9 @@ module.exports = {
     //permite decodificar el token
     decode: async(token) => {
         try {
-
+            return jwt.decode(token);
         } catch (e) {
-
+            return null;
         }
-
     }
 }

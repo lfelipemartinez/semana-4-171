@@ -1,8 +1,6 @@
 # Estructura Evaluacion semana 4
 
-#  
-#grupo 171
-Comando
+#  Comando
 ```
 npm install
 ```
